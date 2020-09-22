@@ -8,7 +8,7 @@ replacement for the `enlist` operator that retains duplicate list items.
 ### Single file wiki ##
 
 Install plugin file
-[$\_\_plugins\_.dtn\_enlist-allow-duplicates.tid](https://github.com/dnebauer/tw-enlist-allow-duplicates/blob/master/%24__plugins_.dtn_enlist-allow-duplicates.tid)
+[$\_\_plugins\_.dtn\_enlist-allow-duplicates.json](https://github.com/dnebauer/tw-enlist-allow-duplicates/blob/master/%24__plugins_.dtn_enlist-allow-duplicates.json)
 to a single file wiki by:
 
 * Dragging and dropping it into your wiki, or
